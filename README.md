@@ -6,6 +6,7 @@ Applications installed by the script :
 - Marktext
 - Joplin
 - AppImageLauncher
+- Spotify
 
 ## Execute script
 
